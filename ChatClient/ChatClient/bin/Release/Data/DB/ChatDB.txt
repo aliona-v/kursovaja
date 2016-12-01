@@ -1,0 +1,29 @@
+CREATE DATABASE ChatDB;
+
+USE ChatDB;
+
+create table USERS
+(
+	iIdUsers int not null primary key,
+	vName varchar(100) not null,
+	vPassword varchar(100) not null
+);
+
+create table FRIENDS
+(
+	iIdFriends int not null primary key,
+	vName varchar(100) not null,
+	fk_iIdUsers int not null,
+	FOREIGN KEY (fk_iIdUsers) REFERENCES USERS(iIdUsers)
+);
+
+INSERT INTO USERS (iIdUsers, vName, vPassword)
+VALUES
+(1, 'admin', 'admin'),
+(2, 'user', 'user');
+
+INSERT INTO FRIENDS (iIdFriends, vName, fk_iIdUsers)
+VALUES
+(1, 'admin', 2),
+(2, 'user', 1);
+

@@ -1,0 +1,16 @@
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\bin\Release\ChatClient.exe.config
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\bin\Release\ChatClient.exe
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\bin\Release\ChatClient.pdb
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.Forms.AddEdit.resources
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.Forms.ChatClient.resources
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.Forms.LoadScreen.resources
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.Forms.LogIn.resources
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.Main.resources
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.Forms.Settings.resources
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.Properties.Resources.resources
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.csproj.GenerateResource.Cache
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.exe
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.pdb
+E:\Алена Вашкевич\ChatClient\ChatClient\bin\Release\ChatClient.exe.config
+E:\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.exe
+E:\Алена Вашкевич\ChatClient\ChatClient\obj\Release\ChatClient.pdb

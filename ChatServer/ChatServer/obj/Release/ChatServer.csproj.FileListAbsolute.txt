@@ -1,0 +1,12 @@
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatServer\ChatServer\bin\Release\ChatServer.exe.config
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatServer\ChatServer\bin\Release\ChatServer.exe
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatServer\ChatServer\bin\Release\ChatServer.pdb
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatServer\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatServer\ChatServer\obj\Release\ChatServer.exe
+E:\Работы на заказ(БГУиР)\Алена Вашкевич\ChatServer\ChatServer\obj\Release\ChatServer.pdb
+E:\Алена Вашкевич\ChatServer\ChatServer\bin\Release\ChatServer.exe.config
+E:\Алена Вашкевич\ChatServer\ChatServer\obj\Release\ChatServer.exe
+E:\Алена Вашкевич\ChatServer\ChatServer\obj\Release\ChatServer.pdb
+E:\Алена Вашкевич\ChatServer\ChatServer\bin\Release\ChatServer.exe
+E:\Алена Вашкевич\ChatServer\ChatServer\bin\Release\ChatServer.pdb
+E:\Алена Вашкевич\ChatServer\ChatServer\obj\Release\ChatServer.csprojResolveAssemblyReference.cache
